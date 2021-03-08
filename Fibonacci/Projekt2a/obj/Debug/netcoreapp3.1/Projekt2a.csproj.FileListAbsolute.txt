@@ -1,0 +1,13 @@
+C:\Users\Domi\source\repos\Projekt2a\Projekt2a\bin\Debug\netcoreapp3.1\Projekt2a.exe
+C:\Users\Domi\source\repos\Projekt2a\Projekt2a\bin\Debug\netcoreapp3.1\Projekt2a.deps.json
+C:\Users\Domi\source\repos\Projekt2a\Projekt2a\bin\Debug\netcoreapp3.1\Projekt2a.runtimeconfig.json
+C:\Users\Domi\source\repos\Projekt2a\Projekt2a\bin\Debug\netcoreapp3.1\Projekt2a.runtimeconfig.dev.json
+C:\Users\Domi\source\repos\Projekt2a\Projekt2a\bin\Debug\netcoreapp3.1\Projekt2a.dll
+C:\Users\Domi\source\repos\Projekt2a\Projekt2a\bin\Debug\netcoreapp3.1\Projekt2a.pdb
+C:\Users\Domi\source\repos\Projekt2a\Projekt2a\obj\Debug\netcoreapp3.1\Projekt2a.csprojAssemblyReference.cache
+C:\Users\Domi\source\repos\Projekt2a\Projekt2a\obj\Debug\netcoreapp3.1\Projekt2a.AssemblyInfoInputs.cache
+C:\Users\Domi\source\repos\Projekt2a\Projekt2a\obj\Debug\netcoreapp3.1\Projekt2a.AssemblyInfo.cs
+C:\Users\Domi\source\repos\Projekt2a\Projekt2a\obj\Debug\netcoreapp3.1\Projekt2a.csproj.CoreCompileInputs.cache
+C:\Users\Domi\source\repos\Projekt2a\Projekt2a\obj\Debug\netcoreapp3.1\Projekt2a.dll
+C:\Users\Domi\source\repos\Projekt2a\Projekt2a\obj\Debug\netcoreapp3.1\Projekt2a.pdb
+C:\Users\Domi\source\repos\Projekt2a\Projekt2a\obj\Debug\netcoreapp3.1\Projekt2a.genruntimeconfig.cache
