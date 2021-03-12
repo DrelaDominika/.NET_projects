@@ -1,0 +1,12 @@
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\Konstruktory\Konstruktory\bin\Debug\netcoreapp3.1\Konstruktory.exe
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\Konstruktory\Konstruktory\bin\Debug\netcoreapp3.1\Konstruktory.deps.json
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\Konstruktory\Konstruktory\bin\Debug\netcoreapp3.1\Konstruktory.runtimeconfig.json
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\Konstruktory\Konstruktory\bin\Debug\netcoreapp3.1\Konstruktory.runtimeconfig.dev.json
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\Konstruktory\Konstruktory\bin\Debug\netcoreapp3.1\Konstruktory.dll
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\Konstruktory\Konstruktory\bin\Debug\netcoreapp3.1\Konstruktory.pdb
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\Konstruktory\Konstruktory\obj\Debug\netcoreapp3.1\Konstruktory.AssemblyInfoInputs.cache
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\Konstruktory\Konstruktory\obj\Debug\netcoreapp3.1\Konstruktory.AssemblyInfo.cs
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\Konstruktory\Konstruktory\obj\Debug\netcoreapp3.1\Konstruktory.csproj.CoreCompileInputs.cache
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\Konstruktory\Konstruktory\obj\Debug\netcoreapp3.1\Konstruktory.dll
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\Konstruktory\Konstruktory\obj\Debug\netcoreapp3.1\Konstruktory.pdb
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\Konstruktory\Konstruktory\obj\Debug\netcoreapp3.1\Konstruktory.genruntimeconfig.cache
