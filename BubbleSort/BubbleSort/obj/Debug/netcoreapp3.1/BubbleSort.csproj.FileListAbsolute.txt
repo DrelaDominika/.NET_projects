@@ -1,0 +1,13 @@
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.exe
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.deps.json
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.json
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.dev.json
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csprojAssemblyReference.cache
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfo.cs
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\Domi\Desktop\semestr4\net_radomski\konstruktory,wyjatki\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.genruntimeconfig.cache
