@@ -6,58 +6,53 @@ namespace Konstruktory
     {
         static void Main(string[] args)
         {
-            Dane a = new Dane(10.0);
-            Dane b = new Dane('x');
-            Dane c = new Dane(5.5, 'y');
-            Dane d = new Dane('z', 19.8);
-            Dane e = new Dane(6, 1);
-            Dane f = new Dane(50);
+            przeciazenie p = new przeciazenie();
+            p.Dane(10.0);
+            p.Dane('x');
+            p.Dane(5.5, 'y');
+            p.Dane('z', 19.8);
+            p.Dane(6, 3);
+            p.Dane(50);
 
-            a.wypisz();
-            b.wypisz();
-            c.wypisz();
-            d.wypisz();
-            e.wypisz();
-            f.wypisz();
         }
     }
-    class Dane
+    public class przeciazenie
     {
         double liczba;
         char znak;
-        public void wypisz()
-        {
-            Console.WriteLine(znak + " " + liczba);
-        }
 
         //double
-        public Dane(double liczba)
+        public void Dane(double liczba)
         {
             this.liczba = liczba;
+            Console.WriteLine(liczba);
         }
 
         //char
-        public Dane(char znak)
+        public void Dane(char znak)
         {
             this.znak = znak;
+            Console.WriteLine(znak);
         }
 
         //double,char
-        public Dane(double liczba, char znak)
+        public void Dane(double liczba, char znak)
         {
             this.liczba = liczba;
             this.znak = znak;
+            Console.WriteLine(liczba + " " + znak);
         }
 
         //char,double
-        public Dane(char znak, double liczba)
+        public void Dane(char znak, double liczba)
         {
             this.liczba = liczba;
             this.znak = znak;
+            Console.WriteLine(znak + " " + liczba);
         }
 
         //NWD
-        public Dane(int a, int b)
+        public void Dane(int a, int b)
         {
             while (a != b)
             {
@@ -72,7 +67,7 @@ namespace Konstruktory
 
         //Sito Eratostenesa
 
-        public Dane(int range)
+        public void Dane(int range)
         {
             int i, j, k;
             int[] array = new int[100];
