@@ -1,0 +1,13 @@
+C:\Users\Domi\Desktop\semestr4\net_radomski\standardowe\QuadraticFormula\QuadraticFormula\bin\Debug\netcoreapp3.1\QuadraticFormula.exe
+C:\Users\Domi\Desktop\semestr4\net_radomski\standardowe\QuadraticFormula\QuadraticFormula\bin\Debug\netcoreapp3.1\QuadraticFormula.deps.json
+C:\Users\Domi\Desktop\semestr4\net_radomski\standardowe\QuadraticFormula\QuadraticFormula\bin\Debug\netcoreapp3.1\QuadraticFormula.runtimeconfig.json
+C:\Users\Domi\Desktop\semestr4\net_radomski\standardowe\QuadraticFormula\QuadraticFormula\bin\Debug\netcoreapp3.1\QuadraticFormula.runtimeconfig.dev.json
+C:\Users\Domi\Desktop\semestr4\net_radomski\standardowe\QuadraticFormula\QuadraticFormula\bin\Debug\netcoreapp3.1\QuadraticFormula.dll
+C:\Users\Domi\Desktop\semestr4\net_radomski\standardowe\QuadraticFormula\QuadraticFormula\bin\Debug\netcoreapp3.1\QuadraticFormula.pdb
+C:\Users\Domi\Desktop\semestr4\net_radomski\standardowe\QuadraticFormula\QuadraticFormula\obj\Debug\netcoreapp3.1\QuadraticFormula.csprojAssemblyReference.cache
+C:\Users\Domi\Desktop\semestr4\net_radomski\standardowe\QuadraticFormula\QuadraticFormula\obj\Debug\netcoreapp3.1\QuadraticFormula.AssemblyInfoInputs.cache
+C:\Users\Domi\Desktop\semestr4\net_radomski\standardowe\QuadraticFormula\QuadraticFormula\obj\Debug\netcoreapp3.1\QuadraticFormula.AssemblyInfo.cs
+C:\Users\Domi\Desktop\semestr4\net_radomski\standardowe\QuadraticFormula\QuadraticFormula\obj\Debug\netcoreapp3.1\QuadraticFormula.csproj.CoreCompileInputs.cache
+C:\Users\Domi\Desktop\semestr4\net_radomski\standardowe\QuadraticFormula\QuadraticFormula\obj\Debug\netcoreapp3.1\QuadraticFormula.dll
+C:\Users\Domi\Desktop\semestr4\net_radomski\standardowe\QuadraticFormula\QuadraticFormula\obj\Debug\netcoreapp3.1\QuadraticFormula.pdb
+C:\Users\Domi\Desktop\semestr4\net_radomski\standardowe\QuadraticFormula\QuadraticFormula\obj\Debug\netcoreapp3.1\QuadraticFormula.genruntimeconfig.cache
